@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardly23
 - 👀 I’m interested in python for data science
-- 🌱 I’m currently learning for Now to tableau
+- 🌱 I’m currently learning for Now to use ide is Tableau,Jupyter,Pycharm,Gretl
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - you can follow me in [instagram](https://www.instagram.com/therealhardikpatel/?hl=en) 
